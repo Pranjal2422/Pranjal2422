@@ -20,15 +20,27 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Django](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
+<!-- ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
+<!-- ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) -->
+<!-- ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
 
-### :chart_with_upwards_trend: My Stats
+<!-- ### :chart_with_upwards_trend: My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjal2422&count_private=true&show_icons=true&theme=radical)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal2422&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranjal2422&theme=radical)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranjal2422&theme=radical)](https://git.io/streak-stats)  -->
+
+## Profile stats📈:
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal2422&layout=compact&theme=dark" alt="Top Languages">
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjal2422&theme=dark" alt="Github Streak">
+  </a>
+</div>
