@@ -33,14 +33,18 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjal2422&count_private=true&show_icons=true&theme=radical)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal2422&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranjal2422&theme=radical)](https://git.io/streak-stats)  -->
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pranjal2422)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal2422)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 
 ## Profile stats📈:
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal2422&layout=compact&theme=dark" alt="Top Languages">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal2422&layout=compact&theme=dark" alt="Top Languages">
   </a>
   <a href="https://git.io/streak-stats">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjal2422&theme=dark" alt="Github Streak">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal2422&theme=dark" alt="Github Streak">
   </a>
 </div>
